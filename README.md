@@ -1,3 +1,5 @@
 # Memories-on-a-plate
 
+Cooking isn't all about following a recipe book and measuring every damn ingredient! It's a creative and intuitive process that lets us use our senses, knowledge, and experience to whip up some lip-smacking meals. Cooking is more art than science! It's not just about the recipe or the ingredients - it's about our understanding of food and our ability to mix and match different flavors, textures, and techniques to create something amazing. It's an art form that lets us express our creativity. The measurements are intentionally left as a range so you can play with varying different flavour profiles.
+
 "I'm definitely a foodie at heart who lives to eat, always on the lookout for my next delicious bite! And that's why I've created 'Memories on a Plate', my own personal collection of beloved recipes that I've perfected over the years. This repository is a constantly evolving work of love, where I document all the tasty secrets and key ingredients that go into each dish. So go ahead, give these recipes a try, and if you have any suggestions for improvement, I'm all ears! Let's make some delicious memories together!"
