@@ -1,29 +1,64 @@
-Which should serve like 7-8 ppl
 
-Masala recipe:
-Grind 4 inch piece of ginger, 8 cloves of garlic, 4 thai green chillies and saute this paste in oil for a min 
-Finely chop 4 large red onions and add it to the pan - this is the most important step, let it saute for like 30 mins until the onion turns brown and into a paste like consistency almost
-Blend 6 roma tomatoes and add to pan, let the water from tomatoes boil off
-Add 2 tsb red chilli powder, 1/2 tsp tumeric, 2 tsp curry powder, 1 tsp cumim, 1/2 tsp cardamom powder, 1 tsp garam masala
-Cook the spices for a few mins add 12-15 cashews blended to a paste (important)
-add 2-3 cups whole milk (no water)
-Add 1/2 kg panner
-Cook to a thick grave like consistency
-Add salt and smoke using coal and ghee
-Finish with chopped coriander
 
-Rice recipe:
-Wash 4 cups of basmati rice until water runs clear (important step)
-In a large pot add ghee and fry whole spices(cinnamon, cloves, cardamom, maze, star anise)
-After fried remove the spices and discard
-Fill the pot with water like 16 cups of water
-Saturate the water with salt, a lot of salt (all the water wont get absorbed, so all the salt wont go in)
-Add the washed rice, in 8-10 mins as the water boils u will see rice bubbling to the top, rice is like 80% cooked
-Now filter the entire pot in a mesh and wash the rice in cold water - this stops further cooking of the rice
+**Ingredients:**
 
-Layering:
-Add a layer of gravy, rice, fried onions, coriander leaves, few teaspoons of saffron milk blend
-Repeat a few layers like above
+- [ ] Ginger
+- [ ] Garlic
+- [ ] Thai green chilies
+- [ ] Oil
+- [ ] Red onions
+- [ ] Roma tomatoes
+- [ ] Red chili powder
+- [ ] Turmeric
+- [ ] Curry powder
+- [ ] Cumin
+- [ ] Cardamom powder
+- [ ] Garam masala
+- [ ] Cashews
+- [ ] Whole milk
+- [ ] Paneer
+- [ ] Salt
+- [ ] Coal and ghee for smoking
+- [ ] Chopped coriander for garnish
+- [ ] Basmati rice
+- [ ] Ghee
+- [ ] Cinnamon 
+- [ ] Cloves
+- [ ] Cardamom
+- [ ] Maze
+- [ ] Star anise
+- [ ] Water (around 16 cups)
+- [ ] Salt
+- [ ] Fried onions
+- [ ] Saffron milk blend (saffron threads soaked in milk and warmed)
 
-Dum:
-Close this entire pot and put it in the owen at 350f for 10-15 mins
+
+
+**Masala recipe:**
+1. Grind a 4ish-inch piece of ginger, 6-8 cloves of garlic, and 3-4 Thai green chilies into a paste.
+2. Heat oil in a pan and add the ginger-garlic-chili paste. Saute for 1 minute.
+3. Finely chop 4-5 large red onions and add them to the pan. This is the most important step. Let the onions saute for about 30 minutes until they turn brown and into a paste-like consistency.
+4. Blend 5-6 Roma tomatoes and add them to the pan. Let the water from the tomatoes boil off.
+5. Add 2-3 teaspoons of red chili powder, 1/4 - 1/2 teaspoon of turmeric, 2-3 teaspoons of curry powder, 1 teaspoon of cumin, 1/2ish teaspoon of cardamom powder, and 1-2 teaspoon of garam masala. Cook the spices for a few minutes.
+6. Add 12-15 cashews blended to a paste (this is important), followed by 2-3 cups of whole milk (no water).
+7. Add 1/2 kg of paneer to the pan and cook to a thick gravy-like consistency.
+8. Add salt to taste and smoke using coal and ghee.
+
+**Rice recipe:**
+1. Wash 4 cups of basmati rice in water until the water runs clear. This is an important step to remove excess starch.
+2. In a large pot, add ghee and fry whole spices such as cinnamon, cloves, cardamom, maze, and star anise.
+3. After frying, remove the spices and discard them.
+4. Fill the pot with around 16 cups of water and add a lot of salt to saturate the water. Keep in mind that not all of the salt will be absorbed by the rice.
+5. Add the washed rice to the pot and let it cook. After 8-10 minutes, as the water boils, you will see the rice bubbling to the top, indicating that the rice is about 80% cooked.
+6. Filter the entire pot in a mesh to remove the excess water and then wash the rice in cold water. This stops further cooking of the rice and ensures that it is fluffy and separated.
+
+**Layering:**
+1. Add a layer of gravy at the bottom of a serving dish.
+2. Add a layer of cooked rice on top of the gravy.
+3. Sprinkle a layer of fried onions and coriander leaves over the rice.
+4. Drizzle a few teaspoons of saffron milk blend over the onions and coriander leaves.
+5. Repeat the layering process until the serving dish is full, with the final layer being a layer of gravy.
+6. Optionally, garnish the top layer with additional fried onions and coriander leaves for added flavor and presentation.
+
+**Dum:**
+Close this entire pot and put it in the owen at 350F for 10-15 mins.
